@@ -1,3 +1,4 @@
+#BETA 0.0
 import time
 strt = input('press enter to start... ')
 if(strt == ''):
