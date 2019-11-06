@@ -9,7 +9,8 @@ GeekoCodingStudios@gmail.com.
 
 HOW TO RUN THIS VERSION 
 1. download the geekoHelpr.py script in this folder by selecting all the code and hitting ctrl/cmd+s and saving the code as
-"geekoHelpr.py". You should give Geeko Helpr it's own folder since it generates files for itself to reference 
+"geekoHelpr.py". You should give Geeko Helpr it's own folder since it generates files for itself to reference or go to 
+realeases>Beta 0.0> sourcecode.zip>open the zip and copy geekoHelpr.py to it's own folder
 2. On MacOS click finder>go>utilities>terminal to open a new terminal window. On linux either click the terminal icon or type 
 ctrl+t to open a new terminal window. On windows click windows+x to open the power use menu then click command prompt to open a 
 new terminal window.
