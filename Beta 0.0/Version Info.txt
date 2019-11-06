@@ -5,4 +5,12 @@ This version's features include:
 -Email sending
 -And very basic file editing (creation, overwiriting, and deleting)
 These functionalities will be updated in later releases along with adding more funtionalities! If you have suggestions email
-GeekoCodingStudios@gmail.com
+GeekoCodingStudios@gmail.com.
+
+HOW TO RUN THIS VERSION 
+1. download the geekoHelpr.py script in this folder
+2. On MacOS click finder>go>utilities>terminal to open a new terminal window. On linux either click the terminal icon or type 
+ctrl+t to open a new terminal window. On windows click windows+x to open the power use menu then click command prompt to open a 
+new terminal window.
+3. check that you have the latest version of python installed you can download it here > https://www.python.org/downloads/ 
+4.on MacOs type "python geekoHelpr.py", ignoring the quotes, and press enter. On windows 
