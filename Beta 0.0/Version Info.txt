@@ -1,0 +1,8 @@
+Welcome to the first release of Geeko Helpr!
+This version's features include:
+-Some basic calculator functions
+-A simple login system
+-Email sending
+-And very basic file editing (creation, overwiriting, and deleting)
+These functionalities will be updated in later releases along with adding more funtionalities! If you have suggestions email
+GeekoCodingStudios@gmail.com
