@@ -62,7 +62,7 @@ if(strt == ''):
 
                 loginUsername = input('What would you like to be your username: ') # ask fo a username and password and store them as variables for later
                 loginPassword = input('What would you like to use as your password: ')
-                loginInfo.write(loginUsername, "/n")
+                loginInfo.write(loginUsername + "/n")
                 loginInfo.write(loginPassword)
     
                 loginInfo.close()
@@ -389,7 +389,7 @@ out Geeko's webstie geeko.github.io""" % username) # if the welcome command is u
             confirmedOrDenied = False
             
             while(not confirmedOrDenied):
-                confirmation = input("are you sure you want to close geeko [Y/N]: ")
+                confirmation = input("are you sure you want to close Geeko Helpr [Y/N]: ")
                 if(confirmation == 'y' or confirmation == 'Y'):
                     exit()
                 elif(confirmation == 'n' or confirmation == 'N'):
